@@ -11,11 +11,23 @@ main {
     border-radius: 10px;
 }
 
+@media (min-width: 768px) {
+    main {
+        width: 50%;
+    }
+}
+
 body {
     background-color: #83A2FF;
+    opacity: 80%;
+}
+
+h1 {
+    text-align: center;
 }
 
 nav {
+    width: 80%;
     background-color: #FFD28F;
     opacity: 80%;
     padding: 20px;
