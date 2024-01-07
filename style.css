@@ -51,3 +51,16 @@ nav li a:hover {
     background-color: #000000;
     color: #FFFFFF;
 }
+
+footer {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+main a {
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+}
