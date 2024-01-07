@@ -14,3 +14,34 @@ main {
 body {
     background-color: #83A2FF;
 }
+
+nav {
+    background-color: #FFD28F;
+    opacity: 80%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    padding: 8px;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #000000;
+    color: #FFFFFF;
+}
