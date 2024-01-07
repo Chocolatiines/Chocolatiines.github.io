@@ -11,15 +11,8 @@ main {
     border-radius: 10px;
 }
 
-@media (min-width: 768px) {
-    main {
-        width: 50%;
-    }
-}
-
 body {
-    background-color: #83A2FF;
-    opacity: 80%;
+    background-color: #b4c9ff;
 }
 
 h1 {
@@ -28,6 +21,7 @@ h1 {
 
 nav {
     width: 80%;
+    margin: 0 auto;
     background-color: #FFD28F;
     opacity: 80%;
     padding: 20px;
